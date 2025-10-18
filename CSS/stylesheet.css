@@ -1,0 +1,38 @@
+title{
+    font-size: 40px;
+}
+h1 {
+    background-color : rgb(252, 227, 202);
+}
+h1 {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 17, 77);
+}
+h2{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 17, 77);
+}
+h3 {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 17, 77);
+}
+h4{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 17, 77);
+}
+#L1{
+    color : rgb(0, 106, 255)
+}
+#L2{
+    color: rgb(0, 255, 60)
+}
+#L3{
+    color: rgb(255, 183, 0)
+}
+#L4{
+    color: rgb(255, 0, 0)
+}
