@@ -10,35 +10,21 @@ body {
     overflow-x: hidden;
 }
 
-.header {
-    text-align: center;
-}
-
-/* Ligne 1 */
-.logos-top {
+.header-title {
     display: flex;
-    justify-content: center;
     align-items: center;
-    gap: 25px;
-    margin-bottom: 20px;
-}
-
-.logos-top img {
-    height: 50px;
-    width: auto;
-}
-
-/* Ligne 2 */
-.master-line {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-start; 
     gap: 15px;
+    margin-top: 20px;
 }
 
 .logo-master {
-    height: 45px;
+    height: 70px;   
     width: auto;
+}
+
+.header-title h1 {
+    margin: 0;        
 }
 
 /* ===== TITRES ===== */
