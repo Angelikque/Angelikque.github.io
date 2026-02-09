@@ -10,6 +10,37 @@ body {
     overflow-x: hidden;
 }
 
+.header {
+    text-align: center;
+}
+
+/* Ligne 1 */
+.logos-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin-bottom: 20px;
+}
+
+.logos-top img {
+    height: 50px;
+    width: auto;
+}
+
+/* Ligne 2 */
+.master-line {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo-master {
+    height: 45px;
+    width: auto;
+}
+
 /* ===== TITRES ===== */
 h1 {
     font-size: 2.4em;
